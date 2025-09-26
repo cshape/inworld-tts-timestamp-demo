@@ -6,7 +6,7 @@ Implementation of word highlighting as text is read by an Inworld voice.
 ## Prerequisites
 
 - Node.js (v14 or higher)
-- Inworld AI account with API credentials
+- [Inworld AI](https://inworld.ai/ account with API credentials
 
 ## Setup Instructions
 
